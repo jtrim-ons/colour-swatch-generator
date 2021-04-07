@@ -19,3 +19,9 @@ python3 create-swatches.py 15 img < colours.txt
 ```
 
 then `AABBCC.png` and `DDEEFF.png` will be created in `img/`.
+
+## Requirements
+
+```python
+pip3 install Pillow
+```
